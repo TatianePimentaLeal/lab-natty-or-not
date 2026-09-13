@@ -4,8 +4,8 @@
 Este e-book de 3 páginas traz uma análise das principais obras de Isaac Asimov sobre Inteligência Artificial traçando paralelos com os desdobramentos tecnológicos de 2026.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização, análise de informações e formatação do PDF
-IA Generativa CanvaAI para criação da capa
+- IA Generativa ChatGPT para roteirização, análise de informações e formatação do PDF
+- IA Generativa CanvaAI para criação da capa
 
 ## 🧐 Processo de Criação
 Utilizei o ChatGPT para analisar as obras de Isaac Asimov que mais estavam pareadas com a situação atual da Inteligência Artificial no mundo, estruturando conteúdo e fazendo o ajuste fino da proposta passada. 
