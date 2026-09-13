@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ASIMOV E A INTELIGÊNCIA ARTIFICIAL: Uma análise das obras do autor com o cenário atual da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 3 páginas traz uma análise das principais obras de Isaac Asimov sobre Inteligência Artificial traçando paralelos com os desdobramentos tecnológicos de 2026.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização, análise de informações e formatação do PDF
+IA Generativa CanvaAI para criação da capa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para analisar as obras de Isaac Asimov que mais estavam pareadas com a situação atual da Inteligência Artificial no mundo, estruturando conteúdo e fazendo o ajuste fino da proposta passada. 
+Já o Canva possui uma IA capaz de gerar imagens, vídeos e outros conteúdos a partir de prompts específicos, assim, utilizei a ideia central para que ela criasse uma capa alinhada ao texto, juntando a capa criada ao PDF com o texto gerado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta uma análise direta dos questionamentos levantados nas obras do autor, fazendo paralelos com o uso da IA no mundo atualmente, incluindo a associação da relevância das obras com relação a questões éticas, de uso e do quão benéfico ou não pode ser atribuir tanta autonomia à IA, principalmente na era dos agentes.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O insight mais relevante foi colocado no e-book para ilustrar as maravilhas e as preocupações que o uso intensivo da IA nos traz: "Quanto maior a autonomia da IA, mais importante se torna a governança humana ao redor dela."
